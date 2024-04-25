@@ -4,6 +4,9 @@
 
 using namespace std;
 
+
+Juan Dela Cruz Kalbo
+
 void newline(int numOfLines){
     for (int i = 1; i <= numOfLines; i++){
         cout<<endl;
