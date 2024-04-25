@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+Deil Adrineda Itlog
 Juan Dela Cruz Kalbo
 
 void newline(int numOfLines){
